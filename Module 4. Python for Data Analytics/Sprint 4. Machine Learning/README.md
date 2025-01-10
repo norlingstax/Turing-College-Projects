@@ -2,6 +2,8 @@
 
 This project focused on predicting the 10-year risk of coronary heart disease (CHD) using logistic regression. It involved data cleaning, exploratory data analysis (EDA), model development, and evaluation, highlighting key challenges like class imbalance and feature selection.
 
+If there are issues with notebook preview, it is also accessible via this [link](https://colab.research.google.com/drive/1vjkAXM7j5FWc75EnyOvZ9JAju3ysO087).
+
 ## 📋 Project Overview
 
 ### Objectives
