@@ -2,6 +2,8 @@
 
 This project focused on applying statistical inference to analyse an A/B test. The task involved evaluating three different marketing campaigns to identify the best-performing one and making recommendations for future marketing strategies.
 
+If there is an issues with file preview, it is also accessible via this [link](https://drive.google.com/file/d/1FJwoPlEGYjrU1Y1Jw1wfOfpuDJanNBWJ/view?usp=sharing).
+
 ---
 
 ## 📋 Project Overview
