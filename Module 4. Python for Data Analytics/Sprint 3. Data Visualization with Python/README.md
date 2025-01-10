@@ -1,6 +1,7 @@
 # Module 4, Sprint 3: Data Visualisation with Python
 
 This project involved analysing the Coursera Course Dataset using Python libraries (Pandas, NumPy, Matplotlib, and Seaborn) to answer key business questions and explore patterns in course ratings, student enrollment, and provider performance. The analysis was conducted in a Jupyter Notebook to ensure clear explanations and effective communication of findings. 
+
 If there are issues with notebook preview, it is also accessible via this [link](https://colab.research.google.com/drive/1gjPOU76KGdCKrcDiChbwsbiRzLcA6Gkg).
 
 ---
