@@ -1,6 +1,6 @@
 # Module 2, Sprint 1: Visualising Data Using Power BI
 
-This project, part of the **Turing College Data Analytics course**, focused on creating insightful and interactive dashboard using **Power BI**. The goal was to utilise **AdventureWorks** company data to design a dashboard that effectively communicates business insights while adhering to best practices in visualisation and storytelling.
+This project focused on creating insightful and interactive dashboard using **Power BI**. The goal was to utilise **AdventureWorks** company data to design a dashboard that effectively communicates business insights while adhering to best practices in visualisation and storytelling.
 
 ---
 
