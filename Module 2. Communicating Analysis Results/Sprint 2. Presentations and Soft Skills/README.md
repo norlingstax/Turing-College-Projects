@@ -2,6 +2,8 @@
 
 This project focused on developing communication and presentation skills. The objective was to create and deliver impactful presentations tailored to different audiences, using data-driven storytelling and clear visual design to convey actionable insights.
 
+If there are issues with files preview, they are also accessible via this [link](https://drive.google.com/drive/folders/1GaaZ8gxY5wfhaL76lb83jTxMDgzR7m8q?usp=drive_link).
+
 ---
 
 ## 📋 Project Overview
