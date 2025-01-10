@@ -1,6 +1,6 @@
 # Module 1, Sprint 3: SQL and Databases
 
-This project was part of the **Turing College Data Analytics course**, focusing on SQL and database management. The objective was to explore the **AdventureWorks 2005** database, identify required data, and retrieve it using SQL queries. This sprint provided an opportunity to apply fundamental SQL skills and build a solid foundation for more advanced topics in subsequent sprints.
+This project focused on SQL and database management. The objective was to explore the **AdventureWorks 2005** database, identify required data, and retrieve it using SQL queries. This sprint provided an opportunity to apply fundamental SQL skills and build a solid foundation for more advanced topics in subsequent sprints.
 
 ---
 
