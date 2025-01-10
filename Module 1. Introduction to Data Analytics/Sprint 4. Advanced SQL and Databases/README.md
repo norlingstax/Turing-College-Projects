@@ -1,6 +1,6 @@
 # Module 1, Sprint 4: Advanced SQL and Databases
 
-This project, part of the **Turing College Data Analytics course**, focused on advanced SQL querying and database management. The objective was to answer complex business questions using the **AdventureWorks 2005** database, demonstrating proficiency in SQL features like window functions, common table expressions (CTEs), and aggregations.
+This project focused on advanced SQL querying and database management. The objective was to answer complex business questions using the **AdventureWorks 2005** database, demonstrating proficiency in SQL features like window functions, common table expressions (CTEs), and aggregations.
 
 ---
 
