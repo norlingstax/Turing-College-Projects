@@ -1,6 +1,8 @@
 # Module 4, Sprint 2: Data Processing with Pandas
 
-This project involved exploring and analysing Spotify's **Top 50 Tracks of 2020** dataset using **Pandas** in Jupyter Notebook. The goal was to answer a range of analytical questions about hit songs while demonstrating data cleaning, exploratory data analysis (EDA), and reporting skills. If there are problems with notebook preview, it is also accessible via this [link](https://colab.research.google.com/drive/1ezh3IN8l7trPYcxkYgi7x4n2bDce3iSU).
+This project involved exploring and analysing Spotify's **Top 50 Tracks of 2020** dataset using **Pandas** in Jupyter Notebook. The goal was to answer a range of analytical questions about hit songs while demonstrating data cleaning, exploratory data analysis (EDA), and reporting skills. 
+
+If there are issues with notebook preview, it is also accessible via this [link](https://colab.research.google.com/drive/1ezh3IN8l7trPYcxkYgi7x4n2bDce3iSU).
 
 ---
 
