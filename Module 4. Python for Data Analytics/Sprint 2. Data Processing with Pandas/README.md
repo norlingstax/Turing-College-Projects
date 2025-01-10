@@ -66,3 +66,7 @@ This sprint honed my ability to:
 - Work with datasets using **Pandas** for filtering, aggregation, and analysis.
 - Perform thorough **EDA** to answer analytical questions and uncover hidden patterns.
 - Communicate findings clearly through well-documented **Jupyter Notebooks**.
+
+---
+If there are problems with notebook preview, it is also accessible via this [link]([https://example.com](https://drive.google.com/file/d/1ezh3IN8l7trPYcxkYgi7x4n2bDce3iSU/view?usp=sharing))
+
