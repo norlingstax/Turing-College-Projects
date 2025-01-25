@@ -57,7 +57,7 @@ It is divided into four modules, each focusing on key aspects of data analytics,
 
 ---
 
-## 📌 Capstone Project: Advanced Data Analytics
+## 📌 Capstone Project
 
 In this final project, I applied the full spectrum of skills gained during the Turing College curriculum to analyse banner performance and user behaviour for an online sporting goods store. 
 The analysis focused on retention trends, funnel optimisation, A/B testing, and time-based insights to inform business strategies.
