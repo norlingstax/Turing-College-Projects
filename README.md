@@ -1,6 +1,7 @@
 # Data Analytics Learning Journey
 
-This repository documents my learning journey through a comprehensive data analytics curriculum offered by Turing College. It is divided into four modules, each focusing on key aspects of data analytics, from foundational concepts to advanced techniques and tools.
+This repository documents my learning journey through a comprehensive data analytics curriculum offered by Turing College. 
+It is divided into four modules, each focusing on key aspects of data analytics, from foundational concepts to advanced techniques and tools.
 
 ---
 
@@ -53,6 +54,21 @@ This repository documents my learning journey through a comprehensive data analy
 - Proficiency in Python for data analysis and visualisation.
 - Advanced data manipulation with Pandas and NumPy.
 - Understanding of machine learning basics and logistic regression modeling.
+
+---
+
+## 📌 Capstone Project: Advanced Data Analytics
+
+In this final project, I applied the full spectrum of skills gained during the Turing College curriculum to analyse banner performance and user behaviour for an online sporting goods store. 
+The analysis focused on retention trends, funnel optimisation, A/B testing, and time-based insights to inform business strategies.
+
+### Key Skills:
+- Retention and cohort analysis to evaluate user engagement and repurchase trends.
+- Funnel analysis to identify drop-offs and platform/product-specific anomalies.
+- A/B testing to validate platform and product performance differences.
+- Time-based insights to optimise campaign timing.
+
+Deliverables included an interactive Power BI dashboard, a written report, and presentation slides that combined actionable recommendations with clear storytelling.
 
 ---
 
