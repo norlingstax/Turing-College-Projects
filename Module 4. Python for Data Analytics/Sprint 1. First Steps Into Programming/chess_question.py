@@ -60,8 +60,6 @@ def update_board(board, position, piece):
     # update the board with a new piece at the given position
     board[position] = piece
 
-# print_board(get_board())
-
 
 def get_pieces(board, is_white=False):
     # function to get pieces input until "done" is entered (for black pieces) or a single piece (for white piece)
@@ -138,12 +136,6 @@ def get_pieces(board, is_white=False):
     
     return pieces_dict
 
-# board = get_board()
-# white_piece = get_pieces(board, is_white=True)
-# print("White piece added:", white_piece)
-# black_pieces = get_pieces(board, is_white=False)
-# print("Black pieces added:", black_pieces)
-
 
 def get_knight_moves(position):
     # define the possible moves for a knight
@@ -169,8 +161,6 @@ def get_knight_moves(position):
             possible_moves.append(new_position)
     
     return possible_moves
-
-# print(get_knight_moves('d5'))
 
 
 def get_rook_moves(position, board):
@@ -210,9 +200,6 @@ def get_rook_moves(position, board):
             break
     
     return possible_moves
-
-# board = get_board()
-# print(get_rook_moves('d4', board))
 
 
 main()
