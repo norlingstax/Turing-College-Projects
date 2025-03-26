@@ -57,6 +57,19 @@ It is divided into four modules, each focusing on key aspects of data analytics,
 
 ---
 
+## 📈 Specialization: Product Analyst
+
+Analysed time-to-conversion by calculating the average duration from a user's first session to their first purchase on the same day. 
+Explored how conversion time varies by platform (mobile vs desktop), day of the week, and user type (new vs returning). 
+Presented insights with Looker Studio and evaluated sample size imbalances using random sampling techniques.
+
+### Key Skills:
+- Advanced SQL (CTEs, timestamp manipulation, case conditions).
+- Behavioural analysis to identify platform and weekday conversion trends.
+- Effective data presentation and business-focused storytelling.
+
+---
+
 ## 📌 Capstone Project
 
 In this final project, I applied the full spectrum of skills gained during the Turing College curriculum to analyse banner performance and user behaviour for an online sporting goods store. 
