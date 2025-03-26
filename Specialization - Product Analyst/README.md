@@ -2,6 +2,8 @@
 
 This project focused on analysing how long it takes users to make a purchase from the moment they land on the website. The goal was to calculate daily conversion durations and explore behavioural patterns across different user segments.
 
+If there is an issue with the pdf file preview, it is also accessible via this [link](https://drive.google.com/file/d/1g0ZNAQ2VKIENTlueFkkf2Hbxss-aBsIR/view?usp=sharing).
+
 ---
 
 📋 **Project Overview**
