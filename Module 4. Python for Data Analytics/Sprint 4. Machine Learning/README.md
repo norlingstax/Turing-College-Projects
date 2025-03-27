@@ -22,7 +22,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 ## 🛠️ Key Skills Acquired
 
 ### 1. **Data Cleaning**
-- **Handling Missing Values**: Applied KNN imputation to fill approximately 15% missing data, ensuring no significant information loss.
+- **Handling Missing Values**: Applied KNN imputation to fill missing data, ensuring no significant information loss.
 - **Outlier Treatment**: Removed extreme values based on domain knowledge and thresholds to improve data quality.
 - **Feature Selection**: Addressed multicollinearity by removing correlated features (e.g., systolic/diastolic BP, smoking status and cigarettes per day).
 
