@@ -4,7 +4,7 @@ This project focused on advanced SQL querying and database management. The objec
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objective
 - Answer specific business questions using advanced SQL queries.
@@ -25,7 +25,7 @@ The sprint was divided into two major sections:
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### Advanced SQL Features
 - **Common Table Expressions (CTEs)**: Used for structuring complex queries into logical steps.
@@ -49,7 +49,7 @@ The sprint was divided into two major sections:
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 This sprint enhanced my ability to:
 - Structure and optimise complex SQL queries for business reporting.
 - Integrate advanced SQL features like window functions and regular expressions.
