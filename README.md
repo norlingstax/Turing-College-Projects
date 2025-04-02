@@ -5,7 +5,7 @@ It is divided into four modules, each focusing on key aspects of data analytics,
 
 ---
 
-## 📚 Module 1: Introduction to Data Analytics
+## Module 1: Introduction to Data Analytics
 ### Sprints:
 1. **SQL Basics**: Learned SQL fundamentals, including data retrieval, filtering, and aggregation.
 2. **Advanced SQL**: Worked on more complex queries, joins, subqueries, and CTEs.
@@ -17,7 +17,7 @@ It is divided into four modules, each focusing on key aspects of data analytics,
 
 ---
 
-## 🗣️ Module 2: Communicating Analysis Results
+## Module 2: Communicating Analysis Results
 ### Sprints:
 1. **Data Visualisation with Power BI**: Created effective and insightful dashboards for business analysis.
 2. **Presentations and Soft Skills**: Delivered data-driven insights to various audiences using storytelling and public speaking.
@@ -29,7 +29,7 @@ It is divided into four modules, each focusing on key aspects of data analytics,
 
 ---
 
-## 📊 Module 3: Main Analysis Types
+## Module 3: Main Analysis Types
 ### Sprints:
 1. **Retention, Cohorts, and Churn**: Analysed user retention and churn with cohort analysis.
 2. **Funnels**: Built and visualised user funnels to identify drop-off points.
@@ -43,7 +43,7 @@ It is divided into four modules, each focusing on key aspects of data analytics,
 
 ---
 
-## 🐍 Module 4: Python for Data Analytics
+## Module 4: Python for Data Analytics
 ### Sprints:
 1. **First Steps Into Programming**: Built foundational Python programming skills through practical tasks.
 2. **Data Processing with Pandas**: Performed data cleaning and analysis using Pandas.
@@ -57,7 +57,7 @@ It is divided into four modules, each focusing on key aspects of data analytics,
 
 ---
 
-## 📈 Specialization: Product Analyst
+## Specialization: Product Analyst
 
 Analysed time-to-conversion by calculating the average duration from a user's first session to their first purchase on the same day. 
 Explored how conversion time varies by platform (mobile vs desktop), day of the week, and user type (new vs returning). 
@@ -70,7 +70,7 @@ Presented insights with Looker Studio and evaluated sample size imbalances using
 
 ---
 
-## 📌 Capstone Project
+## Capstone Project
 
 In this final project, I applied the full spectrum of skills gained during the Turing College curriculum to analyse banner performance and user behaviour for an online sporting goods store. 
 The analysis focused on retention trends, funnel optimisation, A/B testing, and time-based insights to inform business strategies.
@@ -85,7 +85,7 @@ Deliverables included an interactive Power BI dashboard, a written report, and p
 
 ---
 
-## 🌟 Repository Highlights
+## Repository Highlights
 - **Comprehensive Curriculum**: Covers SQL, Power BI, Python, advanced analysis techniques, and machine learning.
 - **Real-World Applications**: Every sprint focuses on solving practical business problems.
 - **Progressive Skill Building**: Gradual transition from foundational concepts to advanced analytics.
