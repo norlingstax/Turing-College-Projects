@@ -6,7 +6,7 @@ If there are issues with files preview, they are also accessible via this [link]
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objective
 - Analyse sales team performance and propose actionable strategies to increase productivity and sales.
@@ -27,7 +27,7 @@ If there are issues with files preview, they are also accessible via this [link]
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### Storytelling with Data
 - Developed a compelling narrative connecting data insights to actionable business strategies.
@@ -47,7 +47,7 @@ If there are issues with files preview, they are also accessible via this [link]
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 This sprint enhanced my ability to:
 - Communicate complex data insights effectively to different audiences.
 - Develop presentations that balance high-level strategy with detailed analysis.
