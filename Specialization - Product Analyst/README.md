@@ -4,16 +4,14 @@ This project focused on analysing how long it takes users to make a purchase fro
 
 If there is an issue with the pdf file preview, it is also accessible via this [link](https://drive.google.com/file/d/1g0ZNAQ2VKIENTlueFkkf2Hbxss-aBsIR/view?usp=sharing).
 
----
+## Project Overview
 
-📋 **Project Overview**
-
-**Objective**
+### Objectives
 - Measure the average time (in minutes) from a user's first interaction on a website to their first purchase, calculated daily.
 - Break down and compare conversion times by platform, weekday, and user type (new vs returning).
 - Present findings with visualisations and support them with analytical commentary.
 
-**Tasks**
+### Tasks
 
 **Data Extraction and SQL Analysis:**
 - Used multiple CTEs to calculate first daily event and first purchase per user.
@@ -37,7 +35,7 @@ If there is an issue with the pdf file preview, it is also accessible via this [
 
 ---
 
-🛠️ **Key Skills Acquired**
+## Key Skills Acquired
 
 **SQL for Behavioural Analysis**
 - Used nested CTEs and timestamp functions to calculate user-level metrics.
@@ -53,7 +51,7 @@ If there is an issue with the pdf file preview, it is also accessible via this [
 
 ---
 
-🌟 **Key Takeaways**
+## Key Takeaways
 
 This sprint improved my ability to:
 - Use SQL to extract meaningful behavioural metrics from event-level data.
