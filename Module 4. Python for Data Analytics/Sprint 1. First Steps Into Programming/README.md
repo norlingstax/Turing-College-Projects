@@ -4,7 +4,7 @@ This project focused on introducing fundamental programming concepts through two
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objectives
 1. **Hands-On Task: Tic-Tac-Toe Game**:
@@ -19,7 +19,7 @@ This project focused on introducing fundamental programming concepts through two
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### Core Programming Concepts
 - **Control Flow**:
@@ -57,7 +57,7 @@ The skills gained in this sprint directly translate to data analysis tasks:
 
 ---
 
-## 🎮 Hands-On Task: Tic-Tac-Toe Game
+## Hands-On Task: Tic-Tac-Toe Game
 
 ### Key Features
 1. **Interactive Gameplay**:
@@ -77,7 +77,7 @@ The skills gained in this sprint directly translate to data analysis tasks:
 
 ---
 
-## ♟ Graded Task: Chessboard Capture Simulation
+## Graded Task: Chessboard Capture Simulation
 
 ### Key Features
 1. **User Interaction**:
@@ -101,7 +101,7 @@ The skills gained in this sprint directly translate to data analysis tasks:
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 This sprint enhanced my ability to:
 - Apply core programming concepts in solving practical problems.
 - Translate real-world challenges into structured programs.
