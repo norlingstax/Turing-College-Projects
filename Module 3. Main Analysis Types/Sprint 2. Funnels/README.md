@@ -4,7 +4,7 @@ This project focused on analysing user behaviour through funnels to understand c
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objective
 - Create a funnel chart to analyse user behaviour at key events (e.g., session start, view item, add to cart, purchase).
@@ -26,7 +26,7 @@ This project focused on analysing user behaviour through funnels to understand c
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### Advanced SQL Techniques
 - **Data Cleaning**:
@@ -47,7 +47,7 @@ This project focused on analysing user behaviour through funnels to understand c
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 This sprint enhanced my ability to:
 - Perform funnel analysis using advanced SQL techniques.
 - Simplify complex logic into efficient and readable queries.
