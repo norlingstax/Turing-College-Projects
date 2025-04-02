@@ -4,7 +4,7 @@ This project focused on SQL and database management. The objective was to explor
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objective
 - Explore the **AdventureWorks 2005** database using **Google BigQuery**.
@@ -28,7 +28,7 @@ The sprint was divided into three main sections:
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### SQL Fundamentals
 - **Data Extraction**: Used `SELECT`, `WHERE`, and `ORDER BY` clauses to retrieve and sort data.
@@ -54,7 +54,7 @@ The sprint was divided into three main sections:
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 This sprint reinforced my ability to:
 - Navigate and explore relational databases.
 - Build efficient SQL queries for various business scenarios.
