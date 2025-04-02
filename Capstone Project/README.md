@@ -5,7 +5,7 @@ This capstone project involves analysing user behaviour and banner performance f
 If there are issues with files preview, they are also accessible via this [link](https://drive.google.com/drive/folders/1CxxoKUlKdWPReBPN9WhE2rTd0Wn1WnY0?usp=sharing). 
 The project's notebook can be accessed in the [Colab](https://colab.research.google.com/drive/1XB4yWRDhDD0VCIMDKD6KlVed1Ptsd1qO#scrollTo=3ffbbd5e-d378-438d-8963-285a9147b881).
 
-📋 **Project Overview**
+## Project Overview
 
 ### Objectives
 1. Understand user behaviour on desktop and mobile platforms.
@@ -13,8 +13,6 @@ The project's notebook can be accessed in the [Colab](https://colab.research.goo
 3. Analyse funnel performance to identify drop-offs at different stages.
 4. Conduct A/B testing to assess the impact of banners across platforms and products.
 5. Provide actionable recommendations to improve user engagement and conversions.
-
----
 
 ### Key Components
 
@@ -45,7 +43,7 @@ The project's notebook can be accessed in the [Colab](https://colab.research.goo
 
 ---
 
-### 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 #### **1. Data Cleaning and Manipulation**
 - Applied data cleaning techniques, including validation of event consistency.
@@ -70,7 +68,7 @@ The project's notebook can be accessed in the [Colab](https://colab.research.goo
 
 ---
 
-### 🌟 Key Takeaways
+## Key Takeaways
 
 This project demonstrates the ability to:
 1. Conduct end-to-end data analysis for business-critical insights.
@@ -81,7 +79,7 @@ This project demonstrates the ability to:
 
 ---
 
-### Repository Contents
+## Repository Contents
 
 - **`project_code.ipynb`**: The Jupyter Notebook containing the full code implementation for data analysis and visualisation.
 - **`written_report.pdf`**: A detailed report summarising the project’s findings, methodologies, and recommendations.
