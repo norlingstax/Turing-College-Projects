@@ -4,7 +4,7 @@ This project focused on analysing subscription retention and churn using cohort 
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objective
 - Analyse weekly retention cohorts of subscribers to identify trends and insights into subscription behaviour.
@@ -21,7 +21,7 @@ This project focused on analysing subscription retention and churn using cohort 
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### Advanced SQL Techniques
 - **Cohort Analysis**:
@@ -45,7 +45,7 @@ This project focused on analysing subscription retention and churn using cohort 
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 This sprint enhanced my ability to:
 - Perform cohort analysis using advanced SQL techniques.
 - Simplify complex logic into efficient and readable queries.
