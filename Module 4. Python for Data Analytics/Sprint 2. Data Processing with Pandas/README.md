@@ -6,7 +6,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objectives
 1. Perform **data cleaning**:
@@ -25,7 +25,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### 1. **Data Manipulation with Pandas**
 - **Data Loading and Inspection**:
@@ -62,7 +62,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 
 This sprint honed my ability to:
 - Work with datasets using **Pandas** for filtering, aggregation, and analysis.
