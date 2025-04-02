@@ -73,7 +73,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 
 ---
 
-## 🔍 Recommendations and Future Steps
+## Recommendations and Future Steps
 1. **Larger Dataset**: Incorporate a more extensive dataset to improve learning capacity and model performance.
 2. **Advanced Modeling**: Explore non-linear models (e.g., Random Forest, Gradient Boosting) for better handling of complex relationships.
 3. **Feature Engineering**: Develop new features or interactions based on domain expertise to enhance predictive accuracy.
