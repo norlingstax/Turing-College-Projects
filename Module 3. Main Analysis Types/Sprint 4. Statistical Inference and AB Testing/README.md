@@ -6,7 +6,7 @@ If there is an issues with file preview, it is also accessible via this [link](h
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objective
 - Analyse an A/B test to compare the effectiveness of three marketing campaigns on weekly sales.
@@ -34,7 +34,7 @@ If there is an issues with file preview, it is also accessible via this [link](h
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### Statistical Inference
 - Applied **t-tests** for pairwise comparisons of average weekly sales.
@@ -60,7 +60,7 @@ If there is an issues with file preview, it is also accessible via this [link](h
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 This sprint enhanced my ability to:
 - Apply statistical inference techniques to real-world business problems.
 - Design robust A/B tests, accounting for issues like multiple comparisons and confidence levels.
