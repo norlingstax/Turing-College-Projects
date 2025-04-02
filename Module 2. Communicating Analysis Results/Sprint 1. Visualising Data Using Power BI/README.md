@@ -4,7 +4,7 @@ This project focused on creating insightful and interactive dashboard using **Po
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objective
 - Design a dashboard that provides actionable insights for stakeholders.
@@ -27,7 +27,7 @@ This project focused on creating insightful and interactive dashboard using **Po
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### Dashboard Design and Visualisation
 - Designed a user-friendly and interactive dashboard that aligns with company branding.
