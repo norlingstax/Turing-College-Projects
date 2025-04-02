@@ -4,7 +4,7 @@ This project focused on predicting the 10-year risk of coronary heart disease (C
 
 If there are issues with notebook preview, it is also accessible via this [link](https://colab.research.google.com/drive/1vjkAXM7j5FWc75EnyOvZ9JAju3ysO087).
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objectives
 - Perform data cleaning:
@@ -19,7 +19,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### 1. **Data Cleaning**
 - **Handling Missing Values**: Applied KNN imputation to fill missing data, ensuring no significant information loss.
@@ -63,7 +63,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 - **Mastery of Logistic Regression**: Developed three models to address baseline performance, class imbalance, and decision threshold optimisation.
 - **Data-Driven Decision Making**: Chose recall as the critical metric, emphasising capturing at-risk patients for early intervention.
 - **Exploratory Insights**: Identified weak individual feature correlations, underscoring the complexity of CHD risk prediction.
