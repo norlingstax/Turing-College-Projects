@@ -6,7 +6,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objectives
 1. **Data Cleaning:**
@@ -25,7 +25,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### 1. Data Cleaning and Manipulation
 - **Loading and Inspecting Data:**
@@ -58,7 +58,7 @@ If there are issues with notebook preview, it is also accessible via this [link]
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 
 This sprint refined my ability to:
 - **Perform EDA:** Explore datasets effectively and uncover key insights.
