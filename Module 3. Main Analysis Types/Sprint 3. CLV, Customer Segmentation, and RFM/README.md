@@ -4,7 +4,7 @@ This project focused on calculating **Customer Lifetime Value (CLV)**, performin
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 ### Objective
 1. **RFM Analysis**:
@@ -20,7 +20,7 @@ This project focused on calculating **Customer Lifetime Value (CLV)**, performin
 
 ---
 
-## 🛠️ Key Skills Acquired
+## Key Skills Acquired
 
 ### Advanced SQL Techniques
 - **RFM Analysis**:
@@ -50,7 +50,7 @@ This project focused on calculating **Customer Lifetime Value (CLV)**, performin
 
 ---
 
-## 🌟 Key Takeaways
+## Key Takeaways
 This sprint enhanced my ability to:
 - Perform advanced segmentation and cohort analysis.
 - Create effective visualisations for presenting actionable insights.
